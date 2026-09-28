@@ -3,9 +3,11 @@ Try hack me inside computer systems.
 status - ongoing
 
 What Im learning
+
 Learning the fundamentals of what's inside computer systems, how they work and the roles and responsibility of each part.
 
 Key concepts - There are 8 main computer components 
+
 1. Motherboard - It holds all different components in place and connects them 
 2. CPU(Central processing unit) - Executes instructions, processes data, manages operations, makes calculations 
 3. RAM - Random access memory, holds data for applications and files currently in use.
@@ -14,5 +16,9 @@ Key concepts - There are 8 main computer components
 6. Power supply(PSU) - Responsible for converting high voltage AC electricity into Low voltage DC that a PC can safely use.
 7. Graphics card - dedicated circuit board that installs into a computers motherboard to render graphics, images and 3d animations to a monitor
 8. Input/Output - The communication between the computer and the outside environment such as a user or a external device such as a keyboard
+9. 
+
+What happens when you power on your computer 
+step 1. Press power button step 2. firmware starts 3. POST (power on self test) 4. select boot device 5. Start boot loader
 
 
